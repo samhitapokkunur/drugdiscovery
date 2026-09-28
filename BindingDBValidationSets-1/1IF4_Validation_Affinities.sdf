@@ -1,0 +1,487 @@
+aromatic/heteroaromatic sulfonamide 7
+  Mrv0541 11181423202D          
+
+ 12 12  0  0  0  0            999 V2000
+   -1.9687    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6832    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6832    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9687    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2543    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2543    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2543    3.7188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1823    4.1032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9687    3.3063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7656    3.0927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5398    0.8312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9687    0.0062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  9  7  2  0  0  0  0
+  9  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+10862
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=10862
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+aromatic/heteroaromatic sulfonamide 7
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=10862&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+60
+
+>  <PMID>
+10479300
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+Hydroxysulfonamide 53
+  Mrv0541 11181423212D          
+
+ 11 11  0  0  0  0            999 V2000
+   -2.5730    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1605    2.7562    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7480    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    2.3437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    1.5187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    2.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    1.1063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+ 11  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+11372
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=11372
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+Hydroxysulfonamide 53
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=11372&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+26
+
+>  <PMID>
+11020282
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+Hydroxysulfonamide 54
+  Mrv0541 11181423212D          
+
+ 12 12  0  0  0  0            999 V2000
+   -2.5730    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1605    2.7562    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7480    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    2.3437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    1.5187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    2.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    1.1063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0184    1.1063    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  6  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+ 11  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+11373
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=11373
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+Hydroxysulfonamide 54
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=11373&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+19
+
+>  <PMID>
+11020282
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+Hydroxysulfonamide 68
+  Mrv0541 11181423212D          
+
+ 16 16  0  0  0  0            999 V2000
+   -2.5730    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1605    2.7562    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7480    3.4707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    2.3437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4461    1.5187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    2.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    2.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3039    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    1.1063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8750    1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    3.5813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1605    1.1063    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5895    0.2813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0184    1.1063    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0184    2.7563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  6  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+ 11  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+11387
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=11387
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+Hydroxysulfonamide 68
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=11387&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.80
+
+>  <PMID>
+11020282
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+benzenesulfonamide
+  Mrv0541 11181423232D          
+
+ 10 10  0  0  0  0            999 V2000
+   -0.9375    2.3875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2230    1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2230    1.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0809    0.3250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.7375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7789    1.4520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9539    0.0230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+12414
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=12414
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+benzenesulfonamide
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=12414&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5870
+
+>  <PMID>
+16506782
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221423022D          
+
+ 11 11  0  0  0  0            999 V2000
+    7.3631   -6.5385    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5385   -6.5385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7712   -7.2506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7754   -5.8263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1835   -6.5385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1137   -7.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1262   -5.8221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8851   -6.5260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2891   -7.2464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3016   -5.8138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0605   -6.5260    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  1  2  0  0  0  0
+  5  1  1  0  0  0  0
+  6  2  2  0  0  0  0
+  7  2  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 11  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50025093
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50025093
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+p-Halide-sulfanilamide derivative, 2
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50025093&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+18
+
+>  <PMID>
+19549076
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211413122D          
+
+ 14 15  0  0  0  0            999 V2000
+    0.5417    0.7333    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5417   -0.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1708   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3667    0.7333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2833    0.7333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5417    1.5583    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1708   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2625   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8833   -0.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2625   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5417   -1.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8833   -1.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6000   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6000   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  1  2  0  0  0  0
+  5  1  2  0  0  0  0
+  6  1  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13  9  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 11  7  2  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50125192
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50125192
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+CHEMBL6648
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50125192&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+133
+
+>  <PMID>
+12643899
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211416262D          
+
+ 13 13  0  0  0  0            999 V2000
+    0.1542    1.5625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5500   -2.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2625   -2.5792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1542    0.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9792    1.5625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6625    1.5625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1667    2.3958    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1542   -1.7417    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8792    0.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5500    0.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1542   -0.9167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8792   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5500   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  8  1  0  0  0  0
+  3  2  3  0  0  0  0
+  4  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6  1  2  0  0  0  0
+  7  1  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 12 11  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50155502
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50155502
+
+>  <HET ID>
+FBS
+
+>  <BindingDB Display Name>
+CHEMBL363086
+
+>  <PDB ID >
+1IF4(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50155502&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3600
+
+>  <PMID>
+15482952
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

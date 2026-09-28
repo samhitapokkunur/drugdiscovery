@@ -1,0 +1,1079 @@
+2
+
+Vconf v2.0 Academic SN VC001-00000579
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31148
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31148
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 2
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31148&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+4
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+3
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.1000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  4 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31149
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31149
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 3
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31149&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+4
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    1.9250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  3 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31150
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31150
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 4
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31150&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+10
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+5
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    3.5750    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31151
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31151
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 5
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31151&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+9
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+7
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.1000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  4 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31153
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31153
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 7
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31153&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+33
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+8
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    1.9250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  3 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31154
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31154
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 8
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31154&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+100
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+9
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    3.5750    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31155
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31155
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 9
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31155&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+155
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+10
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    4.4000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31156
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31156
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 10
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31156&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+11
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  4 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31157
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31157
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 11
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31157&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+38
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+12
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  3 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31158
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31158
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 12
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31158&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+197
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+13
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.7414    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31159
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31159
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 13
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31159&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2750
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+14
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    4.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31160
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31160
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 14
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31160&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+16
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+19
+
+Vconf v2.0 Academic SN VC001-00000579
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31165
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31165
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+naphthyridinone analog.,19
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31165&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+32
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+23
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    4.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31169
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31169
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 23
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31169&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+17300
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+24
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    4.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+31170
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31170
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-methoxyquinolin-2(1H)-one, 24
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31170&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+26200
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+25
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3125    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.0270    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.3125    1.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5980    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    3.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8309    3.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    3.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    1.5454    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1164    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+31171
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=31171
+
+>  <HET ID>
+G3E
+
+>  <BindingDB Display Name>
+3-hydroxyquinolin-2(1H)-one, 25
+
+>  <PDB ID >
+3G3E(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=31171&enzyme=D-Amino Acid Oxidase (DAAO)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3260
+
+>  <PMID>
+19438227
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

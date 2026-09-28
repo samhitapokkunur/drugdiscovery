@@ -1,0 +1,589 @@
+Phenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16419
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16419
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+Phenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16419&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+360000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2-Fluorophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16422
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16422
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2-Fluorophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16422&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+100000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+o-Tolylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16423
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16423
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+o-Tolylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16423&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+62000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2-Chlorophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16424
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16424
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2-Chlorophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16424&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+42000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2-Bromophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16425
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16425
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2-Bromophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16425&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+11000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2-Hydroxyphenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16426
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16426
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2-Hydroxyphenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16426&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+32000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+4-Chlorophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250   -0.4313    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16427
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16427
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+4-Chlorophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16427&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+170000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2_6-Difluorophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+    0.3040    2.0438    0.0000 F   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16428
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16428
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2,6-Difluorophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16428&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+12000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2_6-Dichlorophenylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -1.1250    2.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8395    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    0.3937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.8062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1250    2.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3039    2.8688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    4.1063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.5540    2.0438    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+    0.3040    2.0438    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16429
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16429
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2,6-Dichlorophenylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16429&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2-Napthylacetic
+
+Vconf v2.0 Academic SN VC001-00000579
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+   -1.9063    1.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6207    1.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6207    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1918    1.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9063    2.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1918    3.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4773    2.7750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.1918    4.0125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -1.1918    0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9063    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9063   -0.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1918   -0.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4773   -0.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.4773    0.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  4  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3 10  4  0  0  0  0
+  9  4  4  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 14  4  0  0  0  0
+ 10  9  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+ 12 13  4  0  0  0  0
+ 13 14  4  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+16431
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=16431
+
+>  <HET ID>
+PAC
+
+>  <BindingDB Display Name>
+2-Napthylacetic acid
+
+>  <PDB ID >
+2ISF(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=16431&enzyme=Aldose Reductase (ALR2) Mutant (C298A/W219Y)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+94000
+
+>  <PMID>
+17083960
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

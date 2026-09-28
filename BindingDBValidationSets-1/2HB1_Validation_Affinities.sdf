@@ -1,0 +1,1017 @@
+2
+  Mrv0541 11181423272D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0773    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  1 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14240
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14240
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 2
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14240&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+160000
+
+>  <PMID>
+16806920
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+6
+  Mrv0541 11181423272D          
+
+ 13 13  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14241
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14241
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 6
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14241&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1000000
+
+>  <PMID>
+16806920
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+7
+  Mrv0541 11181423272D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14242
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14242
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 7
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14242&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1000000
+
+>  <PMID>
+16806920
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+10
+  Mrv0541 11181423272D          
+
+ 15 15  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0774    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1083    2.7842    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14244
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14244
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 10
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14244&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+18000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+11
+  Mrv0541 11181423272D          
+
+ 20 21  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0774    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1083    2.7842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7027    2.2121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4954    2.4408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6937    3.2416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0993    3.8138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3066    3.5850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14245
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14245
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 11
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14245&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3200
+
+>  <PMID>
+17705360
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+17
+  Mrv0541 11181423272D          
+
+ 21 22  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0774    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1083    2.7842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1933    3.7141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3824    3.5624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6451    2.1578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4561    2.3095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7302    3.0876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5411    3.2393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 17 15  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14250
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14250
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 17
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14250&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+300
+
+>  <PMID>
+16806920
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+19
+  Mrv0541 11181423272D          
+
+ 21 22  0  0  0  0            999 V2000
+   -2.0112    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7563    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312    1.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3438    3.0143    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2412    1.0773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056    0.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3905   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2110   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0550   -1.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    2.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9673    3.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4089    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463    1.0774    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1083    2.7842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1933    3.7141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3824    3.5624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6451    2.1578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4561    2.3095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7302    3.0876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929    1.6831    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 17 15  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+14252
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=14252
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+Monocyclic thiophene analog 19
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=14252&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1000
+
+>  <PMID>
+17705360
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 16 16  0  0  0  0            999 V2000
+   15.0568   -6.6285    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7261   -6.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4693   -5.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6444   -5.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3876   -6.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5133   -6.4024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6836   -7.2095    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1271   -5.8513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6035   -6.4022    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   14.1598   -4.6902    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   15.9539   -4.6902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7744   -4.7762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2590   -4.1086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0794   -4.1946    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9232   -3.3552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4152   -4.9480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 13 15  2  0  0  0  0
+  6  8  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50206998
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50206998
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL395855
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50206998&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 14 14  0  0  0  0            999 V2000
+   -3.2331   -5.9829    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5638   -5.5004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8206   -4.7122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6456   -4.7122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9023   -5.5004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7767   -5.7568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6064   -6.5640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1628   -5.2058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6866   -5.7565    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1302   -4.0446    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3360   -4.0446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5156   -4.1305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0309   -3.4630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2105   -3.5489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50206999
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50206999
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL240822
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50206999&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 16 16  0  0  0  0            999 V2000
+   13.7283   -1.0374    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3976   -0.5550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1408    0.2333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3158    0.2333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0590   -0.5550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1847   -0.8112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3550   -1.6185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7986   -0.2602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2748   -0.8110    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   12.8312    0.9008    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   14.6253    0.9008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4458    0.8149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9305    1.4825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3989    2.1999    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6243    1.0363    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2370    1.9294    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 13 15  1  0  0  0  0
+  6  8  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207012
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207012
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL392472
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207012&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 14 14  0  0  0  0            999 V2000
+    8.2324   -0.7957    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9017   -0.3133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6449    0.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8200    0.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5632   -0.3133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6889   -0.5696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8592   -1.3768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3027   -0.0186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7791   -0.5693    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    7.3354    1.1425    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    9.1295    1.1425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9499    1.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4346    1.7241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9571    2.4414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  3  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207018
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207018
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL240610
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207018&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.8750  -11.4666    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5443  -10.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2875  -10.1959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4625  -10.1959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2057  -10.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4215  -11.2403    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9778   -9.5282    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7722   -9.5282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5927   -9.6142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0773   -8.9465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8949   -9.0325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7386   -8.1931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3285  -11.2403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4989  -12.0475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  8  1  0  0  0  0
+  1  2  1  0  0  0  0
+  8  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207019
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207019
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL451494
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207019&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.1167   -0.3833    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7860    0.0992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5292    0.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7042    0.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4474    0.0992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5732   -0.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7435   -0.9644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1871    0.3939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6631   -0.1569    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2195    1.5551    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0138    1.5551    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8343    1.4692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3190    2.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1395    2.0509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207020
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207020
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL391996
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207020&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 16 16  0  0  0  0            999 V2000
+    8.8116   -6.5660    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4809   -6.0836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2241   -5.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3992   -5.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1424   -6.0836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2680   -6.3399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4384   -7.1470    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8818   -5.7888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3583   -6.3397    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    7.9145   -4.6277    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    9.7088   -4.6277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5292   -4.7137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0137   -4.0461    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   10.6780   -3.2927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8342   -4.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1700   -4.8855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 14  1  4  0  0  0
+  6  7  1  0  0  0  0
+ 13 15  1  0  0  0  0
+  6  8  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207021
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207021
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL240823
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207021&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11221402112D          
+
+ 15 15  0  0  0  0            999 V2000
+   14.8823  -12.0700    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5516  -11.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2948  -10.7993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4699  -10.7993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2131  -11.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4289  -11.8436    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   13.9853  -10.1317    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   15.7795  -10.1317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5999  -10.2176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0846   -9.5501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9021   -9.6361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7458   -8.7966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3358  -11.8436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5061  -12.6509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9497  -11.2926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  3  8  1  0  0  0  0
+  1  2  1  0  0  0  0
+  8  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5  1  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 13 14  2  0  0  0  0
+  4  7  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50207023
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50207023
+
+>  <HET ID>
+512
+
+>  <BindingDB Display Name>
+CHEMBL239578
+
+>  <PDB ID >
+2HB1(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50207023&enzyme=Protein-tyrosine phosphatase 1B (PTP1B)&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2500000
+
+>  <PMID>
+17336064
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

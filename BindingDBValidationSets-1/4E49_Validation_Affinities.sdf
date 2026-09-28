@@ -1,0 +1,536 @@
+phenol
+  Mrv0541 11181423542D          
+
+  7  7  0  0  0  0            999 V2000
+    0.5625    2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    0.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    3.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+26187
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=26187
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+phenol
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=26187&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5500
+
+>  <PMID>
+23010455
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+2
+  Mrv0541 11181423542D          
+
+  8  8  0  0  0  0            999 V2000
+    0.5625    2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    0.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    3.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9914    2.2625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+26188
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=26188
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+phenol derivative, 2
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=26188&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+9900
+
+>  <PMID>
+18501600
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+3
+  Mrv0541 11181423542D          
+
+  8  8  0  0  0  0            999 V2000
+    0.5625    2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    0.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    3.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9914    0.6125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+26189
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=26189
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+phenol derivative, 3
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=26189&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+7700
+
+>  <PMID>
+18501600
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+4
+  Mrv0541 11181423542D          
+
+  8  8  0  0  0  0            999 V2000
+    0.5625    2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    0.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    3.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625   -0.2125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+26190
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=26190
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+phenol derivative, 4
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=26190&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+90
+
+>  <PMID>
+18501600
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+9
+  Mrv0541 11181423542D          
+
+  8  8  0  0  0  0            999 V2000
+    0.5625    2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1520    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    0.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770    1.8500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625    3.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5625   -0.2125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+26195
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=26195
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+phenol derivative, 9
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=26195&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+752000
+
+>  <PMID>
+18501600
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+  Mrv0541 11221423402D          
+
+  9  9  0  0  0  0            999 V2000
+   -4.0240    1.3701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0252    0.5432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3109    0.1305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5948    0.5437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5977    1.3737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3127    1.7826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3151    2.6071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7382    1.7822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7396    0.1315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50031472
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50031472
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+CHEMBL307145
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50031472&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+540
+
+>  <PMID>
+21669522
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+  Mrv0541 11221409272D          
+
+  9  9  0  0  0  0            999 V2000
+    3.3400   -4.7234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1659   -4.6985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5554   -3.9740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1201   -3.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2909   -3.2987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9057   -4.0283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0826   -4.0583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8532   -2.6011    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2387   -1.8731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50240369
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50240369
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+CHEMBL13766
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50240369&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2940
+
+>  <PMID>
+19231207
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+  Mrv0541 11221409272D          
+
+  9  9  0  0  0  0            999 V2000
+   -3.1122    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2850    1.2749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8949    2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3309    2.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1615    2.6769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5472    1.9462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3716    1.9162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5012    0.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5998    3.3757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50240430
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50240430
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+CHEMBL30106
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50240430&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+113500
+
+>  <PMID>
+19231207
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11231414382D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.0000    1.0317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0012    0.2049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7132   -0.2077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4292    0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4263    1.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7114    1.4443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7130   -1.0321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011   -1.4443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155   -0.2068    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4292    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  3  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50336488
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50336488
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+CHEMBL1668603
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50336488&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+500
+
+>  <PMID>
+21282059
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11231414382D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.0000    0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0012   -0.4145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7132   -0.8271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4291   -0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4262    0.4159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7113    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7130   -1.6516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011   -2.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7089    1.6492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4216    2.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155   -0.8261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4291   -0.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  3  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50336489
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50336489
+
+>  <HET ID>
+RCO
+
+>  <BindingDB Display Name>
+CHEMBL1668605
+
+>  <PDB ID >
+4E49(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50336489&enzyme=Carbonic anhydrase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1430
+
+>  <PMID>
+21282059
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

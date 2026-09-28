@@ -1,0 +1,514 @@
+2-PMPA
+  Mrv0541 11181423352D          
+
+ 14 13  0  0  0  0            999 V2000
+   17.0319  -13.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8569  -13.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2694  -14.3821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4485  -13.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6516  -13.2978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0944  -14.3821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5069  -13.6676    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7926  -11.7995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7594  -15.5339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5229  -14.8964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4376  -16.2654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7111  -15.0926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0251  -15.5509    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2282  -15.7644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  2  0  0  0  0
+  1 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+17659
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17659
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+2-PMPA
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17659&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.30
+
+>  <PMID>
+16686531
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+(R)-1
+  Mrv0541 11181423352D          
+
+ 14 13  0  0  0  0            999 V2000
+   -1.5937    1.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    2.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    2.0062    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    1.1812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1332    2.0062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8793    2.0062    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8793    2.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    3.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    4.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8793    4.4812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5497    4.4812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    1.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    0.7687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5497    2.0062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  6  0  0  0
+  1  3  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+17758
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17758
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+(R)-2-PMPA
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17758&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+30
+
+>  <PMID>
+-1
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+(S)-1
+  Mrv0541 11181423352D          
+
+ 14 13  0  0  0  0            999 V2000
+   -1.5937    1.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    2.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    2.0062    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3082    1.1812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1332    2.0062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8793    2.0062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8793    2.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    3.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    4.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8793    4.4812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5497    4.4812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    1.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1648    0.7687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5497    2.0062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1  0  0  0
+  1  3  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+17759
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17759
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+(S)-2-PMPA
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17759&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.10
+
+>  <PMID>
+-1
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211410362D          
+
+ 15 14  0  0  0  0            999 V2000
+    0.4922   -3.1533    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9270   -3.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6402   -3.5662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2138   -3.5662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4922   -2.3274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3577   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6402   -4.3837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3577    0.1502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2210   -3.5662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4922   -3.9791    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3326   -3.1575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0709   -1.0886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9270   -2.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6402   -1.9145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6402   -1.0886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8  6  2  0  0  0  0
+  9  1  1  0  0  0  0
+ 10  1  1  0  0  0  0
+ 11  3  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 14  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50106556
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50106556
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+CHEMBL334737
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50106556&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+185
+
+>  <PMID>
+23025786
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211413172D          
+
+ 15 14  0  0  0  0            999 V2000
+    3.9384  -10.4619    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2889   -9.6783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7916   -7.2441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2024  -11.2537    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1255  -10.4870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6730   -9.1295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7177  -10.1979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1757   -6.7036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6744   -9.6826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1465  -10.7258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8894   -9.3935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8364   -8.3209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6240   -8.0569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0765   -9.4144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5709   -6.9802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  1  2  0  0  0  0
+  5  2  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  3  2  0  0  0  0
+  9  1  1  0  0  0  0
+ 10  1  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14  2  1  0  0  0  0
+ 15  3  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50127615
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50127615
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+CHEMBL58232
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50127615&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1200
+
+>  <PMID>
+12723961
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11241413182D          
+
+ 15 14  0  0  0  0            999 V2000
+   19.9101  -15.9504    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6249  -15.5385    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3355  -15.9504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0274  -14.8183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2038  -14.8183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0503  -15.5385    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   22.7652  -15.9504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4758  -15.5385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7652  -16.7742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0503  -14.7147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7652  -14.3028    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   22.7652  -13.4791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4758  -13.0672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0503  -13.0672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4758  -14.7147    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  6  3  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 11 15  1  6  0  0  0
+M  END
+>  <BindingDB monomerid>
+50398808
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50398808
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+CHEMBL2177506
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50398808&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+89
+
+>  <PMID>
+23025786
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11241413182D          
+
+ 15 14  0  0  0  0            999 V2000
+   10.7695  -17.0446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4842  -16.6327    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1949  -17.0446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8868  -15.9124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0630  -15.9124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9097  -16.6327    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.6245  -17.0446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3351  -16.6327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6245  -17.8684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9097  -15.8089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6245  -15.3970    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.6245  -14.5733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3351  -14.1614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9097  -14.1614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3351  -15.8089    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  6  3  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 11 15  1  1  0  0  0
+M  END
+>  <BindingDB monomerid>
+50398809
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50398809
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+CHEMBL2177510
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50398809&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+56
+
+>  <PMID>
+23025786
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11241413182D          
+
+ 15 14  0  0  0  0            999 V2000
+   18.9115   -6.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6263   -5.6510    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3370   -6.0629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0290   -4.9308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2052   -4.9308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0518   -5.6510    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   21.7667   -6.0629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4772   -5.6510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7667   -6.8867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0518   -4.8272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7667   -4.4153    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   21.7667   -3.5915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4772   -3.1796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0518   -3.1796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4772   -4.8272    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  6  3  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 11 15  1  6  0  0  0
+M  END
+>  <BindingDB monomerid>
+50398810
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50398810
+
+>  <HET ID>
+G88
+
+>  <BindingDB Display Name>
+CHEMBL2177509
+
+>  <PDB ID >
+3RBU(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50398810&enzyme=Glutamate carboxypeptidase II&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+8
+
+>  <PMID>
+23025786
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

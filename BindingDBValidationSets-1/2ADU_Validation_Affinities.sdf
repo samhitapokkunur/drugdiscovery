@@ -1,0 +1,1210 @@
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17462
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17462
+
+> <HET ID>
+R20
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 18
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17462&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 18
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17463
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17463
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 19
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17463&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 300
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17461
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17461
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 17
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17461&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 1
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17460
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17460
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 16
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17460&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 3
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17467
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17467
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 23
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17467&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 4
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17466
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17466
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 22
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17466&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+  16
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 19 21  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    2.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4688    3.5184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    4.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4688    4.9474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2938    4.9474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7063    4.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2938    3.5184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17465
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17465
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 21
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17465&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 29
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17464
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17464
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 20
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17464&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 280
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 13 14  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2313    2.8040    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17468
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17468
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 24
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17468&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 1
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8187    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8187    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312   -0.0539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  9 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17474
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17474
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 30
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17474&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+  3
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8187    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8187    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312    2.8039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17476
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17476
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 32
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17476&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 52
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17459
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17459
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 15
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17459&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 6
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17458
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17458
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 14
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17458&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 337
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17457
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17457
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 13
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17457&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+>1000
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812   -0.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17452
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17452
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 8
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17452&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 112
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 13 14  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4688    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17455
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17455
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 11
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17455&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 30
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 14 15  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4688    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2938    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17456
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17456
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 12
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17456&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+>1000
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 13 14  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812   -0.0540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812   -0.8790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17453
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17453
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 9
+
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17453&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 150
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 17 19  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812   -0.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3437   -0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562   -0.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937   -0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812   -1.4829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562   -1.4829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17454
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17454
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 10
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17454&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+>1000
+
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 12 13  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0563    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17447
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17447
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 3
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17447&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 15
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$
+
+  -OEChem-10221010042D
+
+ 11 12  0     0  0  0  0  0  0999 V2000
+   -4.2313    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5812    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9937    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8188    2.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7562    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1556    0.8094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4322    1.2058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5856    2.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <BindingDB monomerid>
+17448
+
+> <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=17448
+
+
+> <BindingDB Display Name>
+1,2,3-triazole analogue, 4
+
+> <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=17448&enzyme=Methionine+Aminopeptidase+Type+2+%28MetAP2%29&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Enzymologic: Ki nM >
+ 70
+
+> <PMID >
+16134930
+
+> <pH >
+7.5
+
+> <temp >
+295.15
+
+$$$$

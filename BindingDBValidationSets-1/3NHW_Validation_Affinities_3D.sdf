@@ -1,0 +1,1211 @@
+1c
+
+Vconf v2.0 Academic SN VC001-00000579
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29214
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29214
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1c
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29214&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+500000
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1d
+
+Vconf v2.0 Academic SN VC001-00000579
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29215
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29215
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1d
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29215&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+18200
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1e
+
+Vconf v2.0 Academic SN VC001-00000579
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29216
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29216
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1e
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29216&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+24100
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1f
+
+Vconf v2.0 Academic SN VC001-00000579
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29217
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29217
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1f
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29217&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5800
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1g
+
+Vconf v2.0 Academic SN VC001-00000579
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.7179    0.8448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.9314    0.0480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29218
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29218
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1g
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29218&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+29300
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1h
+
+Vconf v2.0 Academic SN VC001-00000579
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.7179    0.8448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.9314    0.0480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29219
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29219
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1h
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29219&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+9300
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1i
+
+Vconf v2.0 Academic SN VC001-00000579
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.3932    2.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29220
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29220
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1i
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29220&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+8800
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1j
+
+Vconf v2.0 Academic SN VC001-00000579
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.3932    2.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29221
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29221
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1j
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29221&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1900
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1k
+
+Vconf v2.0 Academic SN VC001-00000579
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2500    3.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29222
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29222
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1k
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29222&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+10800
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1l
+
+Vconf v2.0 Academic SN VC001-00000579
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2500    3.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29223
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29223
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1l
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29223&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+4100
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1m
+
+Vconf v2.0 Academic SN VC001-00000579
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.7179    0.8448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.2544    1.9113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.4244    1.2708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  STY  1   1 DAT
+M  SAL   1  1   8
+M  SDT   1 MRV_IMPLICIT_H                                        
+M  SDD   1     0.0000    0.0000    DR    ALL  0       0  
+M  SED   1 IMPL_H1
+M  END
+>  <BindingDB monomerid>
+29224
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29224
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1m
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29224&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+10000
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1n
+
+Vconf v2.0 Academic SN VC001-00000579
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.7179    0.8448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.2544    1.9113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.4244    1.2708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29225
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29225
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1n
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29225&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+7000
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1p
+
+Vconf v2.0 Academic SN VC001-00000579
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.2544    1.9113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2500    3.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29227
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29227
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1p
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29227&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+10800
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+1r
+
+Vconf v2.0 Academic SN VC001-00000579
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   -1.2500    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9645    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.9957    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2812    0.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.8934    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    1.6079    0.8312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.6710    2.4947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.2544    1.9113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2500    3.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -0.5355    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.7179    0.8448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.9314    0.0480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.1789    0.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  1  6  4  0  0  0  0
+  2  3  4  0  0  0  0
+  4  5  4  0  0  0  0
+  7  6  4  0  0  0  0
+  6  5  4  0  0  0  0
+  5  8  4  0  0  0  0
+  7 10  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  9 11  2  0  0  0  0
+  3  4  4  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+29229
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=29229
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+casimiroin analogue, 1r
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=29229&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+500000
+
+>  <PMID>
+19265439
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+BindingDB_50332193_mol_1
+
+Vconf v2.0 Academic SN VC001-00000579
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+    9.5910   -6.8380    0.7090 C   0  0  0  0  0  0  0  0  0  0  0
+   12.7480   -7.0770   -1.2040 N   0  3  0  0  0  0  0  0  0  0  0
+    7.9070   -8.2130    1.1920 N   0  0  0  0  0  0  0  0  0  0  0
+   11.5450   -7.4290   -0.6350 C   0  0  0  0  0  0  0  0  0  0  0
+    9.0780   -8.1220    0.5450 C   0  0  0  0  0  0  0  0  0  0  0
+   10.8220   -6.4640    0.1310 C   0  0  0  0  0  0  0  0  0  0  0
+    8.6720   -6.1450    1.4900 C   0  0  0  0  0  0  0  0  0  0  0
+    7.6340   -7.0320    1.7740 C   0  0  0  0  0  0  0  0  0  0  0
+   10.9950   -8.7310   -0.7850 C   0  0  0  0  0  0  0  0  0  0  0
+    9.7660   -9.0870   -0.2010 C   0  0  0  0  0  0  0  0  0  0  0
+   13.2620   -5.8220   -1.0480 C   0  0  0  0  0  0  0  0  0  0  0
+   13.5100   -8.0130   -1.9820 C   0  0  0  0  0  0  0  0  0  0  0
+   11.3600   -5.1730    0.2850 C   0  0  0  0  0  0  0  0  0  0  0
+    6.4390   -6.7450    2.5710 C   0  0  0  0  0  0  0  0  0  0  0
+   12.5850   -4.8470   -0.3050 C   0  0  0  0  0  0  0  0  0  0  0
+    7.3470   -9.0040    1.2340 H   0  0  0  0  0  0  0  0  0  0  0
+    8.7410   -5.1750    1.7990 H   0  0  0  0  0  0  0  0  0  0  0
+   11.4920   -9.4370   -1.3280 H   0  0  0  0  0  0  0  0  0  0  0
+    9.3840  -10.0260   -0.3170 H   0  0  0  0  0  0  0  0  0  0  0
+   14.1560   -5.5750   -1.4750 H   0  0  0  0  0  0  0  0  0  0  0
+   14.4410   -7.5850   -2.3620 H   0  0  0  0  0  0  0  0  0  0  0
+   13.7690   -8.8780   -1.3680 H   0  0  0  0  0  0  0  0  0  0  0
+   12.9220   -8.3450   -2.8390 H   0  0  0  0  0  0  0  0  0  0  0
+   10.8650   -4.4630    0.8270 H   0  0  0  0  0  0  0  0  0  0  0
+    6.4520   -5.7130    2.9260 H   0  0  0  0  0  0  0  0  0  0  0
+    5.5510   -6.9000    1.9580 H   0  0  0  0  0  0  0  0  0  0  0
+    6.4060   -7.4170    3.4280 H   0  0  0  0  0  0  0  0  0  0  0
+   12.9790   -3.9120   -0.1970 H   0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+>  <BindingDB monomerid>
+50332193
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50332193
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+CHEMBL1288342
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50332193&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2100
+
+>  <PMID>
+21074425
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+BindingDB_50332194_mol_1
+
+Vconf v2.0 Academic SN VC001-00000579
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   16.4760   -6.6170    0.5070 C   0  0  0  0  0  0  0  0  0  0  0
+   16.8150   -8.8390    0.2160 N   0  0  0  0  0  0  0  0  0  0  0
+   15.8820   -7.8740    0.3360 C   0  0  0  0  0  0  0  0  0  0  0
+   17.8570   -6.8640    0.4840 C   0  0  0  0  0  0  0  0  0  0  0
+   18.0220   -8.2450    0.3030 C   0  0  0  0  0  0  0  0  0  0  0
+   15.6690   -5.4560    0.6540 C   0  0  0  0  0  0  0  0  0  0  0
+   13.4370   -4.4870    0.7650 N   0  3  0  0  0  0  0  0  0  0  0
+   14.2440   -5.5940    0.6250 C   0  0  0  0  0  0  0  0  0  0  0
+   14.4890   -8.0220    0.3070 C   0  0  0  0  0  0  0  0  0  0  0
+   13.6830   -6.8840    0.4510 C   0  0  0  0  0  0  0  0  0  0  0
+   16.5420  -10.2270    0.0300 C   0  0  0  0  0  0  0  0  0  0  0
+   13.9690   -3.2440    0.9320 C   0  0  0  0  0  0  0  0  0  0  0
+   12.0030   -4.5880    0.7410 C   0  0  0  0  0  0  0  0  0  0  0
+   16.1930   -4.1600    0.8280 C   0  0  0  0  0  0  0  0  0  0  0
+   18.9900   -6.0320    0.6020 C   0  0  0  0  0  0  0  0  0  0  0
+   19.3040   -8.8220    0.2360 C   0  0  0  0  0  0  0  0  0  0  0
+   15.3530   -3.0510    0.9670 C   0  0  0  0  0  0  0  0  0  0  0
+   20.2750   -6.6030    0.5360 C   0  0  0  0  0  0  0  0  0  0  0
+   20.4320   -7.9900    0.3540 C   0  0  0  0  0  0  0  0  0  0  0
+   14.0650   -8.9420    0.1830 H   0  0  0  0  0  0  0  0  0  0  0
+   12.6720   -7.0080    0.4280 H   0  0  0  0  0  0  0  0  0  0  0
+   17.4560  -10.8170   -0.0340 H   0  0  0  0  0  0  0  0  0  0  0
+   15.9510  -10.5980    0.8690 H   0  0  0  0  0  0  0  0  0  0  0
+   15.9760  -10.3670   -0.8920 H   0  0  0  0  0  0  0  0  0  0  0
+   13.3610   -2.4300    1.0340 H   0  0  0  0  0  0  0  0  0  0  0
+   11.5090   -3.6210    0.8610 H   0  0  0  0  0  0  0  0  0  0  0
+   11.6790   -5.0100   -0.2120 H   0  0  0  0  0  0  0  0  0  0  0
+   11.6660   -5.2360    1.5530 H   0  0  0  0  0  0  0  0  0  0  0
+   17.1920   -3.9930    0.8570 H   0  0  0  0  0  0  0  0  0  0  0
+   18.9110   -5.0280    0.7340 H   0  0  0  0  0  0  0  0  0  0  0
+   19.4220   -9.8260    0.1040 H   0  0  0  0  0  0  0  0  0  0  0
+   15.7430   -2.1170    1.0930 H   0  0  0  0  0  0  0  0  0  0  0
+   21.0990   -6.0070    0.6210 H   0  0  0  0  0  0  0  0  0  0  0
+   21.3680   -8.3940    0.3070 H   0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+M  CHG  1   7   1
+M  END
+>  <BindingDB monomerid>
+50332194
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50332194
+
+>  <HET ID>
+ZXZ
+
+>  <BindingDB Display Name>
+CHEMBL1288457
+
+>  <PDB ID >
+3NHW(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50332194&enzyme=Quinone reductase 2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5500
+
+>  <PMID>
+21074425
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

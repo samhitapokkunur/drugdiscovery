@@ -1,0 +1,689 @@
+BindingDB_50389176_mol_1
+
+Vconf v2.0 Academic SN VC001-00000579
+ 42 45  0  0  0  0  0  0  0  0999 V2000
+   -0.0060    2.1100    0.2470 N   0  0  0  0  0  0  0  0  0  0  0
+   -0.5140    3.3200    0.5970 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8090    3.7590    0.2390 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.2750    5.0190    0.6520 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.4570    5.8490    1.4360 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.1740    5.4160    1.8100 C   0  0  0  0  0  0  0  0  0  0  0
+    0.2910    4.1560    1.3950 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.8610    0.9160   -2.8940 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.4550    0.8190   -4.1810 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.1310   -0.3840   -4.8680 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.2960   -1.3770   -4.3240 C   0  0  0  0  0  0  0  0  0  0  0
+    0.2450   -1.1870   -3.0470 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.0650   -0.0500   -2.3870 N   0  0  0  0  0  0  0  0  0  0  0
+    0.3360    0.2690   -1.2010 N   0  0  0  0  0  0  0  0  0  0  0
+   -0.2130    1.4600   -0.9210 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.9580    1.8720   -1.9600 N   0  0  0  0  0  0  0  0  0  0  0
+   -2.3140    1.8280   -4.7630 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.0380    1.5900   -5.9630 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.8830    2.5560   -6.5330 C   0  0  0  0  0  0  0  0  0  0  0
+   -4.0350    3.8100   -5.9250 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.3300    4.0840   -4.7450 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.4880    3.1120   -4.1800 C   0  0  0  0  0  0  0  0  0  0  0
+   -5.0880    5.0100   -6.6100 S   0  0  0  0  0  0  0  0  0  0  0
+   -4.4610    6.4450   -6.3330 O   0  0  0  0  0  0  0  0  0  0  0
+   -5.6130    4.5240   -8.0300 O   0  0  0  0  0  0  0  0  0  0  0
+   -6.5520    4.9830   -5.5620 C   0  0  0  0  0  0  0  0  0  0  0
+    0.6030    1.6890    0.8740 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.4210    3.1620   -0.3170 H   0  0  0  0  0  0  0  0  0  0  0
+   -3.2100    5.3290    0.3860 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.7950    6.7630    1.7360 H   0  0  0  0  0  0  0  0  0  0  0
+    0.4200    6.0150    2.3840 H   0  0  0  0  0  0  0  0  0  0  0
+    1.2250    3.8500    1.6750 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.4890   -0.5620   -5.8050 H   0  0  0  0  0  0  0  0  0  0  0
+   -0.0840   -2.2230   -4.8540 H   0  0  0  0  0  0  0  0  0  0  0
+    0.8530   -1.8910   -2.6260 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.9810    0.6940   -6.4430 H   0  0  0  0  0  0  0  0  0  0  0
+   -4.3920    2.3420   -7.3920 H   0  0  0  0  0  0  0  0  0  0  0
+   -3.4270    4.9950   -4.2960 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.9900    3.3830   -3.3370 H   0  0  0  0  0  0  0  0  0  0  0
+   -7.2650    5.7240   -5.9220 H   0  0  0  0  0  0  0  0  0  0  0
+   -7.0070    3.9940   -5.5980 H   0  0  0  0  0  0  0  0  0  0  0
+   -6.2700    5.2190   -4.5360 H   0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3 28  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 30  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 34  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 35  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 36  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 37  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 38  1  0  0  0  0
+ 22 39  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 26 40  1  0  0  0  0
+ 26 41  1  0  0  0  0
+ 26 42  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50389176
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389176
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062796
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389176&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2
+
+>  <PMID>
+22594690
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389178
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389178
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062804
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389178&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+2
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389180
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389180
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062808
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389180&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389181
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389181
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062798
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389181&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389182
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389182
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062799
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389182&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389183
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389183
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062800
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389183&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+6
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389184
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389184
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062801
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389184&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389185
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389185
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062802
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389185&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.80
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+BindingDB_50389186_mol_1
+
+Vconf v2.0 Academic SN VC001-00000579
+ 55 59  0  0  0  0  0  0  0  0999 V2000
+    0.7810    1.1970    0.5250 N   0  0  0  0  0  0  0  0  0  0  0
+    0.0870    2.3580    0.6540 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2220    2.4300    1.1770 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8850    3.6650    1.2740 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.2550    4.8480    0.8410 C   0  0  0  0  0  0  0  0  0  0  0
+    0.0430    4.7750    0.3000 C   0  0  0  0  0  0  0  0  0  0  0
+    0.7060    3.5400    0.2030 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.8940    6.0440    0.9380 N   0  0  0  0  0  0  0  0  0  0  0
+   -2.3860    6.5340    2.1860 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.8960    6.7870    2.0610 C   0  0  0  0  0  0  0  0  0  0  0
+   -4.1450    7.6140    0.9240 O   0  0  0  0  0  0  0  0  0  0  0
+   -3.6510    7.1160   -0.3200 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.1400    6.8560   -0.2110 C   0  0  0  0  0  0  0  0  0  0  0
+    0.3720   -1.1180    3.0750 C   0  0  0  0  0  0  0  0  0  0  0
+   -0.0830   -1.7350    4.2720 C   0  0  0  0  0  0  0  0  0  0  0
+    0.4700   -3.0290    4.4870 C   0  0  0  0  0  0  0  0  0  0  0
+    1.3810   -3.6320    3.6020 C   0  0  0  0  0  0  0  0  0  0  0
+    1.7700   -2.9410    2.4480 C   0  0  0  0  0  0  0  0  0  0  0
+    1.2460   -1.7140    2.2350 N   0  0  0  0  0  0  0  0  0  0  0
+    1.4950   -0.9530    1.2210 N   0  0  0  0  0  0  0  0  0  0  0
+    0.7670    0.1600    1.3940 C   0  0  0  0  0  0  0  0  0  0  0
+    0.0690    0.0710    2.5370 N   0  0  0  0  0  0  0  0  0  0  0
+   -1.0170   -1.1340    5.2010 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.4840    0.2010    5.0640 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.3910    0.7780    5.9680 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.8740    0.0370    7.0550 C   0  0  0  0  0  0  0  0  0  0  0
+   -2.4330   -1.2820    7.2280 C   0  0  0  0  0  0  0  0  0  0  0
+   -1.5260   -1.8510    6.3190 C   0  0  0  0  0  0  0  0  0  0  0
+   -3.9830    0.7530    8.1840 S   0  0  0  0  0  0  0  0  0  0  0
+   -4.7330    1.9680    7.4840 O   0  0  0  0  0  0  0  0  0  0  0
+   -4.7160   -0.3940    9.0070 O   0  0  0  0  0  0  0  0  0  0  0
+   -2.9260    1.5500    9.4020 C   0  0  0  0  0  0  0  0  0  0  0
+    1.3810    1.1210   -0.2330 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.7020    1.5840    1.4860 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.8300    3.7020    1.6580 H   0  0  0  0  0  0  0  0  0  0  0
+    0.5100    5.6240   -0.0230 H   0  0  0  0  0  0  0  0  0  0  0
+    1.6470    3.5050   -0.1910 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.8890    7.4770    2.4170 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.2040    5.8360    3.0070 H   0  0  0  0  0  0  0  0  0  0  0
+   -4.4180    5.8360    1.9440 H   0  0  0  0  0  0  0  0  0  0  0
+   -4.2590    7.2860    2.9590 H   0  0  0  0  0  0  0  0  0  0  0
+   -4.1640    6.1860   -0.5700 H   0  0  0  0  0  0  0  0  0  0  0
+   -3.8390    7.8500   -1.1050 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.6240    7.8090   -0.0910 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.7950    6.3820   -1.1330 H   0  0  0  0  0  0  0  0  0  0  0
+    0.2260   -3.5690    5.3150 H   0  0  0  0  0  0  0  0  0  0  0
+    1.7560   -4.5610    3.7980 H   0  0  0  0  0  0  0  0  0  0  0
+    2.4290   -3.3550    1.7880 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.1640    0.8000    4.3090 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.6970    1.7420    5.8340 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.7740   -1.8320    8.0170 H   0  0  0  0  0  0  0  0  0  0  0
+   -1.2550   -2.8160    6.4940 H   0  0  0  0  0  0  0  0  0  0  0
+   -3.5470    2.0290   10.1580 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.2880    0.8040    9.8760 H   0  0  0  0  0  0  0  0  0  0  0
+   -2.3060    2.3000    8.9120 H   0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 21  1  0  0  0  0
+  1 33  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3 34  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 35  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 36  1  0  0  0  0
+  7 37  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 38  1  0  0  0  0
+  9 39  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 40  1  0  0  0  0
+ 10 41  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 42  1  0  0  0  0
+ 12 43  1  0  0  0  0
+ 13 44  1  0  0  0  0
+ 13 45  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 22  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 46  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 47  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 48  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 28  2  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 49  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 50  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 29  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 51  1  0  0  0  0
+ 28 52  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 32  1  0  0  0  0
+ 32 53  1  0  0  0  0
+ 32 54  1  0  0  0  0
+ 32 55  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50389186
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389186
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062803
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389186&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.90
+
+>  <PMID>
+22594690
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389187
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389187
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062805
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389187&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389188
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389188
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062806
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389188&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389189
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389189
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062807
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389189&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.64
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389190
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389190
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062529
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389190&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389191
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389191
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062797
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389191&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1615
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+ 
+>  <BindingDB monomerid>
+50389200
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50389200
+
+>  <HET ID>
+88A
+
+>  <BindingDB Display Name>
+CHEMBL2062810
+
+>  <PDB ID >
+4AQC(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50389200&enzyme=Tyrosine-protein kinase JAK2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1
+
+>  <PMID>
+00000000
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

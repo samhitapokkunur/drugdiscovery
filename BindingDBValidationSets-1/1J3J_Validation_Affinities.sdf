@@ -1,0 +1,706 @@
+24
+  Mrv0541 11181423362D          
+
+ 17 18  0  0  0  0            999 V2000
+   -3.4687    2.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1832    0.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1832    1.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4687    0.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4687    2.8375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8977    0.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7543    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0398    2.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6094    2.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3231    3.2488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0383    2.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3260    1.5988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6108    2.0100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1058    3.2463    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7543    0.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0398    0.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0398   -0.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  3  2  1  0  0  0  0
+  2  4  2  0  0  0  0
+  4 15  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  7 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 11  8  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 13  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18512
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18512
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+Pyrimethamine (Pyr)
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18512&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+30900
+
+>  <PMID>
+12704428
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P37
+  Mrv0541 11181423372D          
+
+ 16 17  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0539    1.5125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 15  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18775
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18775
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P37
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18775&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.84
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P17
+  Mrv0541 11181423372D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0540    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 17  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18779
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18779
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P17
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18779&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+0.40
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P21
+  Mrv0541 11181423372D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0540    1.5125    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 17  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18781
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18781
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P21
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18781&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+44
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P13
+  Mrv0541 11181423372D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750    2.3375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0540    1.5125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 18  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18783
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18783
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P13
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18783&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+13
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P38
+  Mrv0541 11181423372D          
+
+ 16 17  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750    2.3375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18785
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18785
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P38
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18785&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+3
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P20
+  Mrv0541 11181423372D          
+
+ 16 17  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18788
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18788
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P20
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18788&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+P36
+  Mrv0541 11181423372D          
+
+ 15 16  0  0  0  0            999 V2000
+   -1.3750    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0895    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3750   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6605    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8039   -0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184    1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9473   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2329   -0.1375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5184   -1.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0894   -1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+18789
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=18789
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+P36
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=18789&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+37
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211411182D          
+
+ 18 19  0  0  0  0            999 V2000
+    7.9487   -4.7993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5124   -4.8454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2219   -4.4012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5470   -5.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9660   -5.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2739   -6.0567    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6409   -4.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3677   -4.7588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0772   -4.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6236   -3.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2046   -3.5821    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8375   -6.1086    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0426   -3.5014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3677   -5.5780    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.3158   -3.1149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7694   -3.0803    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    8.6929   -6.0221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6929   -6.8412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  1  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  3  1  0  0  0  0
+ 12  4  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15 10  2  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 18 17  1  0  0  0  0
+  4  2  2  0  0  0  0
+ 13  9  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50110765
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50110765
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+CHEMBL22357
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50110765&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+1141
+
+>  <PMID>
+15293997
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+
+  Mrv0541 11211414542D          
+
+ 18 19  0  0  0  0            999 V2000
+    5.1292    0.0208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8542    0.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5625    0.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1292   -0.8125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5542   -0.8167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8417   -1.2250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2792    0.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8542    1.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4125   -1.2250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2667   -1.2417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4125   -0.8417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9917   -0.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2875    1.2333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6917   -1.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9792   -0.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0000    1.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7042    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7125    1.2208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  4  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  4  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12  7  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16 13  2  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18 16  1  0  0  0  0
+  3  5  2  0  0  0  0
+ 18 17  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+50138958
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50138958
+
+>  <HET ID>
+CP6
+
+>  <BindingDB Display Name>
+CHEMBL159040
+
+>  <PDB ID >
+1J3J(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50138958&enzyme=Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+121
+
+>  <PMID>
+14736247
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$

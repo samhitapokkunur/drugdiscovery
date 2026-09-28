@@ -1,0 +1,783 @@
+O6-Substituted Guanine Deriv. 4
+  Mrv0541 11181423102D          
+
+ 15 16  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2029    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5156    4.1922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5237    5.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5462
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5462
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 4
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5462&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+48000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 5
+  Mrv0541 11181423102D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2029    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5156    4.1922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5237    5.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2422    5.4226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5463
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5463
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 5
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5463&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+49000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 6
+  Mrv0541 11181423102D          
+
+ 18 19  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2029    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5156    4.1922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5237    5.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2422    5.4226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2504    6.2476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9689    6.6530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5464
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5464
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 6
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5464&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+100000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 9
+  Mrv0541 11181423112D          
+
+ 15 16  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2028    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5157    4.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132    4.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5467
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5467
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 9
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5467&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+42000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 10
+  Mrv0541 11181423112D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2028    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5157    4.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132    4.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9051    5.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5468
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5468
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 10
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5468&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+15000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 11
+  Mrv0541 11181423112D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2028    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5157    4.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5239    5.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2261    3.7726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5469
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5469
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 11
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5469&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+26000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 13
+  Mrv0541 11181423112D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2109    2.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2028    3.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5157    4.1922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5238    5.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2423    5.4226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2504    6.2476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5473
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5473
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 13
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5473&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+47000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 23
+  Mrv0541 11181423112D          
+
+ 17 19  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6439    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3584    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0258    3.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6932    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4383    1.7716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6133    1.7716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5483
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5483
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 23
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5483&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+21000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 25
+  Mrv0541 11181423112D          
+
+ 18 20  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6439    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3584    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0729    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7873    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7873    1.7312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0729    1.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3584    1.7312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5485
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5485
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+NU2058
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5485&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+17000
+
+>  <PMID>
+16913703
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Substituted Guanine Deriv. 30
+  Mrv0541 11181423112D          
+
+ 19 21  0  0  0  0            999 V2000
+   -0.9375    1.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    1.3188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543    0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    1.5737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5303    0.2389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6520    1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9375    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3664    0.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9294    2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6439    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3584    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0729    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7873    4.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5018    3.7937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5018    2.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7873    2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0729    3.7937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  3  2  0  0  0  0
+  8  2  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  5  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 18 14  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5490
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5490
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Substituted Guanine Deriv. 30
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5490&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+44000
+
+>  <PMID>
+12139449
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
+O6-Cyclohexylmethylguanine deriv. 7
+  Mrv0541 11181423112D          
+
+ 19 21  0  0  0  0            999 V2000
+   -1.2188    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9332    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2188    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9332    2.0688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5043    2.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5043    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7652    1.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2803    2.3237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2803    0.9889    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2188    3.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9332    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6477    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3622    3.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0766    3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0766    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3622    2.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6477    2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6477    0.8312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3622    1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  4  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  8  5  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  9  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  7  2  0  0  0  0
+  1 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+>  <BindingDB monomerid>
+5522
+
+>  <BindingDB monomer Link>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=5522
+
+>  <HET ID>
+CMG
+
+>  <BindingDB Display Name>
+O6-Cyclohexylmethylguanine deriv. 7
+
+>  <PDB ID >
+1H1P(100%)
+
+>  <TARGET Monomer-Polymer Link: >
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=5522&enzyme=Cyclin A2&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <Enzymologic: Ki nM >
+5000
+
+>  <PMID>
+15239650
+
+>  <pH>
+na
+
+>  <temp>
+na
+
+$$$$
